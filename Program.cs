@@ -11,12 +11,13 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAllOrigins",
         builder => builder
-            .AllowAnyOrigin()
+            //.AllowAnyOrigin()
             .AllowAnyMethod()
             .AllowAnyHeader());
 });
 
 builder.Services.AddScoped<UploadService>();
+builder.Services.AddScoped<VideoService>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

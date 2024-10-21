@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Sytec\publicaciones\videosApi</_PublishTargetUrl>
-    <History>True|2024-09-17T19:08:45.1597872Z||;</History>
+    <History>True|2024-09-19T14:56:21.8637099Z||;False|2024-09-19T08:55:36.6083668-06:00||;True|2024-09-19T08:53:49.7602309-06:00||;False|2024-09-19T08:53:18.4974493-06:00||;False|2024-09-19T08:52:57.4332739-06:00||;False|2024-09-19T08:50:56.8579695-06:00||;False|2024-09-19T08:50:25.5871791-06:00||;False|2024-09-19T08:50:12.0039060-06:00||;True|2024-09-18T16:14:06.3778281-06:00||;True|2024-09-18T15:47:43.6351626-06:00||;True|2024-09-18T15:29:32.9038204-06:00||;True|2024-09-18T12:50:01.1946499-06:00||;True|2024-09-18T12:37:54.1302532-06:00||;True|2024-09-17T13:08:45.1597872-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

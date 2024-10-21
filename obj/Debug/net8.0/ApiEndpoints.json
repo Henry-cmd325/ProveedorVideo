@@ -1,47 +1,5 @@
 [
   {
-    "ContainingType": "ProveedorVideo.Controllers.VideoController",
-    "Method": "GetSegment",
-    "RelativePath": "chunk-stream{videoId}-{fileName}.m4s",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "videoId",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "fileName",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ProveedorVideo.Controllers.VideoController",
-    "Method": "GetInitializationSegment",
-    "RelativePath": "init-stream{videoId}.m4s",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "videoId",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "fileName",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "ProveedorVideo.Controllers.UploadController",
     "Method": "Upload",
     "RelativePath": "uploads",
@@ -59,18 +17,12 @@
   },
   {
     "ContainingType": "ProveedorVideo.Controllers.VideoController",
-    "Method": "GetManifest",
-    "RelativePath": "videos/manifest/{videoId}",
+    "Method": "GetAllVideos",
+    "RelativePath": "videos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "videoId",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

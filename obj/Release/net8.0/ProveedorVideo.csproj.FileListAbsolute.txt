@@ -35,3 +35,4 @@ C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Release\net8.0\refint\ProveedorVi
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Release\net8.0\ProveedorVideo.pdb
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Release\net8.0\ProveedorVideo.genruntimeconfig.cache
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Release\net8.0\ref\ProveedorVideo.dll
+C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Release\net8.0\ProveedorVideo.sourcelink.json

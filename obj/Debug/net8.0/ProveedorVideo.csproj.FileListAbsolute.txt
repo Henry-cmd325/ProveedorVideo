@@ -21,6 +21,7 @@ C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\ProveedorVideo.Assem
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\ProveedorVideo.csproj.CoreCompileInputs.cache
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\ProveedorVideo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\ProveedorVideo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\ProveedorVideo.sourcelink.json
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\SYTEC\source\repos\ProveedorVideo\obj\Debug\net8.0\staticwebassets\msbuild.ProveedorVideo.Microsoft.AspNetCore.StaticWebAssets.props
